@@ -8,5 +8,6 @@ Nous avons fait une analyse en deux parties :
 
 Nous avons séparer les analyses en deux fichiers distincts : 
 
-- [https://github.com/caullird/data731_pib-prediction/blob/main/Analyse_Inter_Processus.ipynb] dddd
-- Analyse IntraProcessus.ipynb
+- [Analyse inter-processus](https://github.com/caullird/data731_pib-prediction/blob/main/Analyse_Inter_Processus.ipynb)
+- [Analyse intra-processus](https://github.com/caullird/data731_pib-prediction/blob/main/Analyse_Intra_Processus.ipynb)
+
