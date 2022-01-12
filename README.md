@@ -12,6 +12,8 @@ Nous avons séparer les analyses en deux fichiers distincts :
 - [Analyse inter-processus](https://github.com/caullird/data731_pib-prediction/blob/main/Analyse_Inter_Processus.ipynb)
 - [Analyse intra-processus](https://github.com/caullird/data731_pib-prediction/blob/main/Analyse_Intra_Processus.ipynb)
 
+--- 
+
 👥 Equipe de projet 
 
 * **CAULLIREAU Dorian** _alias_ [@caullird](https://github.com/caullird)
