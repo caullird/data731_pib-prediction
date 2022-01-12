@@ -16,5 +16,5 @@ Nous avons séparer les analyses en deux fichiers distincts :
 
 * **CAULLIREAU Dorian** _alias_ [@caullird](https://github.com/caullird)
 * **PERROLLAZ Maverick** _alias_ [@M4verickFr](https://github.com/M4verickFr)
-* **GOBJI Zied* _alias_ [@ZiedGOBJI](https://github.com/ZiedGOBJI)
+* **GOBJI Zied** _alias_ [@ZiedGOBJI](https://github.com/ZiedGOBJI)
 
