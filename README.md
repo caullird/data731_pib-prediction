@@ -1,6 +1,5 @@
 # data731_pib-prediction
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 🔰 L'objectif du projet et de mettre en oeuvre les méthodes acquises durant l'ensemble des cours & TPs. 
 
