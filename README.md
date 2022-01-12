@@ -14,7 +14,7 @@ Nous avons séparer les analyses en deux fichiers distincts :
 
 --- 
 
-👥 Equipe de projet 
+## 👥 Equipe de projet 
 
 * **CAULLIREAU Dorian** _alias_ [@caullird](https://github.com/caullird)
 * **PERROLLAZ Maverick** _alias_ [@M4verickFr](https://github.com/M4verickFr)
